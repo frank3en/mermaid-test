@@ -8,3 +8,7 @@
       B-->D;
       C-->D;
 ```
+
+
+## Links
+ - [https://mermaid-js.github.io/mermaid/#/n00b-syntaxReference](https://mermaid-js.github.io/mermaid/#/n00b-syntaxReference)
